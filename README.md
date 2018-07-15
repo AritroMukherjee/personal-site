@@ -1,5 +1,5 @@
 # personal-site
-2018 - Personal Site ver1.0
+2018 - Personal Site ver1.0 (On-Going project)
 Started as a quick way to force myself to learn Django.
 
 Technologies Involved:
