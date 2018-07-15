@@ -5,6 +5,6 @@
 <h5>Started as a quick way to force myself to learn Django.</h5>
 
 <h5>Technologies Involved:</h5>
-<h5>Framework:Django-REST-framework</h5>
+<h5>Framework: Django-REST-framework</h5>
 
-<h5>Languages:Python,HTML,CSS,ES6,JQuery</h5>
+<h5>Languages: Python,HTML,CSS,ES6,JQuery</h5>
